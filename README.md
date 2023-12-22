@@ -53,6 +53,8 @@ Link2(Neo4j Deployment And Working):
 
 5. Your products are now ready to be displayed on the Magento e-commerce website.
 
+6. Magento Products Uploaded ScreenShot in The Folder 'Magento_Products_ScreenShots' 
+
 ### Steps for Neo4j Data Uploadation:
 
 1. Install Neo4j in Docker using the provided Docker Compose file.
