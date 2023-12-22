@@ -80,11 +80,3 @@ Link2(Neo4j Deployment And Working):
 
 If you'd like to contribute, please fork the repository and create a new branch. Pull requests are welcome!
 
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-Replace `your-username`, `your-repo`, and placeholder values with your actual GitHub username, repository name, and specific configurations. Adjust the links to your recorded videos accordingly.
-
-Feel free to customize the README based on your specific project details and structure.
