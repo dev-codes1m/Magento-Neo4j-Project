@@ -89,6 +89,9 @@ Link2(Neo4j Deployment And Working): https://youtu.be/U9KgV7Kpp-M
    Neo4j Download: https://bitnami.com/stack/neo4j
    Tutorials: Youtube
    Cypher_Query: [Neo4j Cypher Guide](https://neo4j.com/docs/cypher-manual/current/introduction/)
+## Skills Learned:
+   * Magento
+   * Neo4j
 ## Contributing
 
 If you'd like to contribute, please fork the repository and create a new branch. Pull requests are welcome!
