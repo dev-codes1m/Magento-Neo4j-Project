@@ -53,7 +53,10 @@ Link2(Neo4j Deployment And Working):
 
 5. Your products are now ready to be displayed on the Magento e-commerce website.
 
-6. Magento Products Uploaded ScreenShot in The Folder 'Magento_Products_ScreenShots' 
+6. Magento Products Uploaded ScreenShot in The Folder 'Magento_Products_ScreenShots'
+
+![File Uploaded Successfully](https://github.com/dev-codes1m/Magento-Neo4j-Project/blob/main/Magento_Products_ScreenShots/Screenshot%20(423).png)
+![Products Uploaded Info](https://github.com/dev-codes1m/Magento-Neo4j-Project/blob/main/Magento_Products_ScreenShots/Screenshot%20(424).png)
 
 ### Steps for Neo4j Data Uploadation:
 
@@ -78,6 +81,8 @@ Link2(Neo4j Deployment And Working):
    Search for more Cypher queries in the [Neo4j Cypher Guide](https://neo4j.com/docs/cypher-manual/current/).
 
 4. Project screenshots are available in the folder 'Neo4j Screenshot Graphs'.
+
+   ![Neo4j](https://github.com/dev-codes1m/Magento-Neo4j-Project/blob/main/Products_Neo4j_ScreenShots/Relation%20Between%20Products%20And%20Manufactorers.png)
 
 ## References:
    Magento Download: https://bitnami.com/stack/magento
