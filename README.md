@@ -47,7 +47,7 @@ Link2(Neo4j Deployment And Working):
 
 2. Download the CSV file from the export section in settings.
 
-3. Transform the data using Python and save it as `Processing.csv`.
+3. Transform the data using Python and save it as `Processing.ipynb`.
 
 4. Import the transformed data back into Magento.
 
