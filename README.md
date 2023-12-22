@@ -79,6 +79,11 @@ Link2(Neo4j Deployment And Working):
 
 4. Project screenshots are available in the folder 'Neo4j Screenshot Graphs'.
 
+## References:
+   Magento Download: https://bitnami.com/stack/magento
+   Neo4j Download: https://bitnami.com/stack/neo4j
+   Tutorials: Youtube
+   Cypher_Query: [Neo4j Cypher Guide](https://neo4j.com/docs/cypher-manual/current/introduction/)
 ## Contributing
 
 If you'd like to contribute, please fork the repository and create a new branch. Pull requests are welcome!
