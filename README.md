@@ -19,8 +19,8 @@ Link2(Neo4j Deployment And Working):
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/your-username/your-repo.git](https://github.com/dev-codes1m/Magento-Neo4j-Project.git
+
    ```
 
 2. Deploy Magento:
